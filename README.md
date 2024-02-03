@@ -1,4 +1,4 @@
-Note: run "npm install" first in the terminal, then "npm start" to run the app
+Note: run "npm install" first in the terminal, then "npm start" to run the app. Thank you!
 
 
 # Getting Started with Create React App
